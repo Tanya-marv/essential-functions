@@ -13,7 +13,7 @@ This repository contains some essential python functions required in day to day 
 
 ## Proposed refactor
 
-- Make it as a packaga
+- Make it as a package
 - Push it to PyPI
 
 Copyright 2018 MIT License @palnabarun
